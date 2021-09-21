@@ -1,0 +1,13 @@
+#naoAutorizado {
+  margin-top: 5px;
+  font-size: 18px;
+  color: rgb(255, 94, 94);
+  text-shadow: 1px 1px 1px black;
+}
+
+#autorizado {
+  margin-top: 5px;
+  font-size: 18px;
+  color: rgb(0, 247, 0);
+  text-shadow: 1px 1px 1px black;
+}
